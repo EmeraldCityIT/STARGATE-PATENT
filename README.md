@@ -1,12 +1,12 @@
 # STARGATE-PATENT
 
-molecular scanning and remote intentional printing.
+Molecular scanning and remote intentional printing.
 
-Object is scanned to obtain detailed, accurate lattice structure.
+Object is scanned by entrance portal to obtain detailed, accurate lattice structure.
 
 Entrance portal breaks down particles using vibrational fields.
 
-Entrance Portals Store cubits of subatomic particles for "guaranteed return" material.
+Entrance Portals Store subatomic particles (cubits) for "guaranteed return" material.
 
 Exit portal generates scanned lattice structure.
 
