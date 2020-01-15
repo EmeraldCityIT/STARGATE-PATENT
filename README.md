@@ -1,5 +1,8 @@
 # STARGATE-PATENT
+
 molecular scanning and remote intentional printing.
+
+Object is scanned to obtain detailed, accurate lattice structure.
 
 Entrance portal breaks down particles using vibrational fields.
 
