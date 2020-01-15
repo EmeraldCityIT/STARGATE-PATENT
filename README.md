@@ -2,13 +2,13 @@
 
 Molecular scanning and remote intentional printing.
 
-Object is scanned by entrance portal to obtain detailed, accurate lattice structure.
+The object is scanned by the entrance portal to obtain a detailed, accurate lattice structure.
 
-Entrance portal breaks down particles using vibrational fields.
+The entrance portal breaks down particles using vibrational fields.
 
 Entrance Portals Store subatomic particles (cubits) for "guaranteed return" material.
 
-Exit portal generates scanned lattice structure.
+The exit portal generates a scanned lattice structure from the reservoir of subatomic particles.
 
-Intention of biologial life drives the animated particles freely as individuals transported through some kind of interdimensional relocation.
+The intention of biological life drives the animated particles freely as individuals transported through some kind of interdimensional relocation.
 
