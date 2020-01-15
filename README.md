@@ -6,7 +6,7 @@ The object is scanned by the entrance portal to obtain a detailed, accurate latt
 
 The entrance portal breaks down particles using vibrational fields.
 
-Entrance Portals Store subatomic particles (cubits) for "guaranteed return" material.
+Entrance portals store subatomic particles (cubits) for "guaranteed return" material.
 
 The exit portal generates a scanned lattice structure from the reservoir of subatomic particles.
 
